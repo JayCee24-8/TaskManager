@@ -92,11 +92,11 @@ Run the following command to start the application:
   
 - **task.py**:
   Defines the Task model with attributes such as:
-    ID
-    name
-    description
-    priority
-    due_date
-    status
+    - ID
+    - name
+    - description
+    - priority
+    - due_date
+    - status
 
 
