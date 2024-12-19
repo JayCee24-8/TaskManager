@@ -1,0 +1,113 @@
+[
+    {
+        "user_id": 1,
+        "username": "JC",
+        "password": "JC123",
+        "tasks": [
+            {
+                "id": 1,
+                "name": "Helloooo",
+                "description": "",
+                "status": "Completed",
+                "dueDate": "2024-05-01",
+                "priority": "Medium"
+            },
+            {
+                "id": 2,
+                "name": "hello edited",
+                "description": "This is an edited task",
+                "status": "In Progress",
+                "dueDate": "2024-05-01",
+                "priority": "Medium"
+            },
+            {
+                "id": 3,
+                "name": "Salvador",
+                "description": "Dormir",
+                "status": "Pending",
+                "dueDate": "2025-05-01",
+                "priority": "High"
+            },
+            {
+                "id": 4,
+                "name": "Final",
+                "description": "Description",
+                "status": "In Progress",
+                "dueDate": "2024-05-02",
+                "priority": "Medium"
+            },
+            {
+                "id": 5,
+                "name": "Test",
+                "description": "",
+                "status": "Pending",
+                "dueDate": "2024-07-10",
+                "priority": "High"
+            }
+        ]
+    },
+    {
+        "user_id": 2,
+        "username": "Omar",
+        "password": "Omar123",
+        "tasks": [
+            {
+                "id": 1,
+                "name": "Helloooo",
+                "description": "",
+                "status": "Completed",
+                "dueDate": "2024-05-01",
+                "priority": "Medium"
+            },
+            {
+                "id": 2,
+                "name": "hello edited",
+                "description": "This is an edited task",
+                "status": "In Progress",
+                "dueDate": "2024-05-01",
+                "priority": "Medium"
+            },
+            {
+                "id": 3,
+                "name": "Test",
+                "description": "",
+                "status": "Pending",
+                "dueDate": "2024-04-30",
+                "priority": "High"
+            }
+        ]
+    },
+    {
+        "user_id": 3,
+        "username": "JC1",
+        "password": "123",
+        "tasks": [
+            {
+                "id": 1,
+                "name": "Helloooo",
+                "description": "",
+                "status": "Completed",
+                "dueDate": "2024-05-01",
+                "priority": "Medium"
+            }
+        ]
+    },
+    {
+        "user_id": 4,
+        "username": "Salvador",
+        "password": "123",
+        "tasks": []
+    },
+    {
+        "user_id": 5,
+        "username": "Felix",
+        "password": "password",
+        "tasks": []
+    },
+    {
+        "user_id": 6,
+        "username": "Juan",
+        "password": "123",
+        "tasks": []
+    }
+]
